@@ -4,4 +4,17 @@
   --darkGreenColor: #12b252;
   --blueColor: #22a7f0;
   --orangeColor: #f2784b;
+
+  --fontMontserrat: 'Montserrat', sans-serif;
+  --fontPlayfair: 'Playfair Display', serif;
+
+
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  font-size: 62.5%;
 }
